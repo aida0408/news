@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.navbar{
+.nav{
     background-color: #e258e2;
     display: flex;
     justify-content: space-between;
@@ -11,7 +11,7 @@
     flex-wrap: wrap;
     padding: 20px;
 }
-.navbar-nav{
+.nav-nav{
     margin-left: 20px;
     text-decoration: none ;
     font-size: 18px;

@@ -3,11 +3,11 @@ import React from 'react'
 const Singin = () =>{
 
     return(
-        <div>
+        <form>
             <input type="text" />
             <input type="text"/>
             <button>Войти</button>
-        </div>
+        </form>
     )
 }
 
